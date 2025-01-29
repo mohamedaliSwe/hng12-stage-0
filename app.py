@@ -14,7 +14,7 @@ github_url = "https://github.com/mohamedaliSwe/hng12-stage-0"
 def get_info():
     response = {
         "email": email,
-        "current_datetime": datetime.utcnow().isoformat(timespec="minutes"),
+        "current_datetime": datetime.utcnow().isoformat(),
         "github_url": github_url
     }
 
