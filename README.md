@@ -80,7 +80,7 @@ A successful request will return the following JSON response:
 To use the API, send a GET request to the deployed endpoint.
 
 ```bash
-curl https://your-deployed-url.com/
+curl https://hng12-stage-0-eight.vercel.app/
 ```
 
 ## Backlinks

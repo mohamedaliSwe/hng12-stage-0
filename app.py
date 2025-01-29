@@ -7,7 +7,7 @@ app = Flask(__name__)
 CORS(app)
 
 email = "mohamedcali350@gmail.com"
-github_url = "https://github.com/mohamedaliSwe/hng12-stage-0.git"
+github_url = "https://github.com/mohamedaliSwe/hng12-stage-0"
 
 
 @app.route("/", methods = [ 'GET' ])
